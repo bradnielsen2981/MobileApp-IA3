@@ -26,3 +26,18 @@ function defaulthandler(results)
 {
     console.log(results.message);
 }
+
+//login
+function login()
+{
+    alert("login");
+    //get all form variables using getElement and store in Parameters object
+    //create an AJAXrequest using Parameters object
+}
+
+//get the weather api
+function readWeatherAPI()
+{
+    //create an AJAX requestion to weather api
+    //display weather api
+}
